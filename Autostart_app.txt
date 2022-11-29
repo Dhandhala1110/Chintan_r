@@ -1,0 +1,7 @@
+Shiny App dem Autostart hinzufügen
+
+	1. 'windows'-Taste + R drücken
+	2. shell:startup eingeben und mit 'OK' bestätigen
+	3. Es öffnet sich das Fenster für den Autostart
+	4. Datei 'Wissensspeicher.cmd' in den Ordner kopieren
+	
